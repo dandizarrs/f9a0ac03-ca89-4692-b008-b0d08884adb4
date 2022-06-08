@@ -13,6 +13,9 @@
 1654648602.498439482s 1 https://api.dandiarchive.org/api/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4.zarr/0/0/0/7/7/178
 1654648656.922003201s 1 https://api.dandiarchive.org/api/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4.zarr/0/0/0/7/8/178
 1654648912.949226404s 1 https://api.dandiarchive.org/api/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4.zarr/0/0/0/7/9/178
+1654654252.044835861s 1 https://api.dandiarchive.org/api/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4.zarr/0/0/0/8/4/179
+1654654380.246587782s 1 https://api.dandiarchive.org/api/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4.zarr/0/0/0/8/5/179
+1654654552.327585418s 1 https://api.dandiarchive.org/api/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4.zarr/0/0/0/8/6/179
 1654636728.063242158s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/10/10/181?versionId=Dsr5BTmzfvwhwxA_jj1H5VNo9k8SWWuk
 1654636795.309579888s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/10/11/181?versionId=iVDk77Nb1rILIZ3OAqaF.PQXhsu2O9bf
 1654637202.500117558s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/10/3/181?versionId=094Zlx.jdkQ7PAQkkdT3meOd3Y_y.EqH
@@ -28,3 +31,6 @@
 1654648602.250321049s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/7/7/178?versionId=cPVsccQ_2OzymheiVFiBJb.Cjs7Ko3Ro
 1654648656.855210051s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/7/8/178?versionId=Ywh3qQNrMwAWxy8WOXfA9KRmSWuQyUxb
 1654648912.873508886s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/7/9/178?versionId=roVJKOjHxdsWjELzRXUlej_alXVNd._c
+1654654252.015583352s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/8/4/179?versionId=Osk2TVXRYtS0GqAevDqsiwgUG2T2BfAU
+1654654380.187820311s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/8/5/179?versionId=Cx4LEGWRqR1pxNWutVJDr3ujOaUeVAYv
+1654654552.267727013s 1 https://dandiarchive.s3.amazonaws.com/zarr/f9a0ac03-ca89-4692-b008-b0d08884adb4/0/0/0/8/6/179?versionId=iBTg6y.5E4ZOgh4uvn5qbWQlDo9Wkudv
